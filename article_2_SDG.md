@@ -2,6 +2,14 @@
 
 As discussed in [Article 1](article_1_DL_Explained.md), Deep Learning models require a **mechanism** to update the model parameters automatically. The **Stochastic gradient descent (SGD)** is the mathematical foundation of this mechanism. 
 
+The following diagram, visually describes the SGD method. 
+<!---(Photo of diagram)-->
+<img src="images/Steps_for_DL.jpg">
+
+[Image Source: Fastai Book, Chapter 4](https://nbviewer.org/github/fastai/fastbook/blob/master/04_mnist_basics.ipynb)
+
+The above model has been explained in greater detail in the proceeding subsections: 
+
 ## Step 1: Initialize
 - Gradient descent method involves starting at a random point on a function
 - Hence, in DL, this involves **initializing** model parameters **(weights)** to **random values**
@@ -21,3 +29,4 @@ As discussed in [Article 1](article_1_DL_Explained.md), Deep Learning models req
 - As **weight parameters** are adjusted, change in **gradient of loss** can be measured 
 - Correlates weight values with respect to model performance
 - Will indicate the **winning direction**, and amount to adjust weight parameters by
+
