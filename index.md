@@ -18,6 +18,8 @@
 # **Articles/Posts**
 Following articles summarise key learnings from different chapters of the textbook:
 
+[What is Deep Learning?](article_1_DL_Explained.md)
+
 
 
 # Remove Later
