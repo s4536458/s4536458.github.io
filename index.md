@@ -11,17 +11,10 @@ The purpose of this blog is to outline key concepts I have learned from the 'Fas
 <img src="images/AnjanaNanayakkara.jpg" width="417" height="625">
 
 <!-----------------------------------------------------------
-                    TABLE OF CONTENTS
+                         SECTION 1
   ---------------------------------------------------------->
-# Table of Contents
-{:toc}
-
-
-
-
 ## **1: Section 1: Learned Concepts**
 * Hello and welcome to this blog. 
-
 
 
 
