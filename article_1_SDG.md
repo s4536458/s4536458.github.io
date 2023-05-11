@@ -1,8 +1,4 @@
-# Stochastic gradient descent (SGD) 
-
-
-
-## **What is Deep Learning?**
+# **What is Deep Learning?**
 <!----------------------------------------------------------- 
                     Quote from Textbook 
 ------------------------------------------------------------>
