@@ -4,6 +4,16 @@ As discussed in [Article 1](article_1_DL_Explained.md), Deep Learning models req
 
 ## Step 1: Initialize
 - Gradient descent method involves starting at a random point on a function
-- Then, travel down the slope after each iteration, until the function minimum is reached
+- In DL, this involves **initializing model parameters (weights) to random values**
 
-## Step 2: 
+## Step 2: Prediction
+- Using weights, an expected result can be predicted
+
+## Step 3: Loss
+- Using a function, evaluate the actual performance of the model
+- Function will returns a:
+    1. **Small number** - if the loss is minimal
+    2. **Large number** - if the loss is significant
+
+> Better result = less loss = lower number
+
