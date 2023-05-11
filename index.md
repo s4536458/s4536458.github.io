@@ -1,19 +1,26 @@
 # Question 1 Blog by Anjana Nanayakkara
+The purpose of this blog is to outline key concepts I have learned from the 'FastAI' course.
+
+<!-----------------------------------------------------------
+                     (Section about myself) 
+  ---------------------------------------------------------->
 ## **About Me**
-I am a **5th year** masters electrical engineering student, at the Univeristy of Queensland. Whilst my passion is power 
-system studies, **I have always been intrigued by AI**. The purpose of this blog is to outline key concepts I have learned from the 'FastAI' course.
+    I am an electrical engineering student, at the Univeristy of Queensland. Whilst my passion is power system studies, I have always been intrigued by AI. 
 
-![Image of Myself](images/AnjanaNanayakkara.jpg)
+<!---(Photo of myself) -->
+<img src="images/AnjanaNanayakkara.jpg" width="417" height="625">
 
-
-
+<!-----------------------------------------------------------
+                    TABLE OF CONTENTS
+  ---------------------------------------------------------->
 # Table of Contents
 {:toc}
 
 
-## **1: Section 1: Learned Concepts**
 
-Hello and welcome to this blog. 
+
+## **1: Section 1: Learned Concepts**
+* Hello and welcome to this blog. 
 
 
 
