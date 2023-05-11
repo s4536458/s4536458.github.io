@@ -19,4 +19,5 @@ As discussed in [Article 1](article_1_DL_Explained.md), Deep Learning models req
 
 ## Step 4: Gradient Step
 - As **weight parameters** are adjusted, change in **gradient of loss** can be measured 
+- Correlates weight values with respect to model performance
 - Will indicate the **winning direction**, and amount to adjust weight parameters by
