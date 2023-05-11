@@ -15,14 +15,12 @@
 <!-----------------------------------------------------------
                          Articles
   ---------------------------------------------------------->
-# **Neural Net Foundations**
-* Hello and welcome to this blog. 
-
+# **Articles/Posts**
+Following articles summarise key learnings from different chapters of the textbook:
 
 
 
 # Remove Later
-
 Edit the `index.md` file to change this content. 
 
 All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
