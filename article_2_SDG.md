@@ -13,9 +13,17 @@ The above model has been explained in greater detail in the proceeding subsectio
 ## Step 1: Initialize Weights
 - Gradient descent method involves starting at a random point on a function
 - Hence, in DL, this involves **initializing** model parameters **(weights)** to **random values**
+- The following image, is an example of a random point being selected in a curve
+
+    <!--- RANDOM ALLOCATION IMAGE AS AN EXAMPLE--->
+    <img src="images/step1_sgd.jpg">
+
+    [Image Source: Fastai Book, Chapter 4](https://nbviewer.org/github/fastai/fastbook/blob/master/04_mnist_basics.ipynb)
+
 
 ## Step 2: Predict Outcome Using Weights
 - Using weights, an expected result can be predicted
+
 
 ## Step 3: Measure Loss
 - Need to measure the effectiveness of the weights
@@ -31,3 +39,9 @@ The above model has been explained in greater detail in the proceeding subsectio
 - Will indicate the **winning direction**, and amount to adjust weight parameters by
 - Idea of 'descent' is to go in opposite direction of gradient to optimise performance
 
+- An example image has been provided below, which depicts the loss being measured with respect to a model parameter (weight) using the gradient of the curve
+
+    <!--- RANDOM ALLOCATION IMAGE AS AN EXAMPLE--->
+    <img src="images/step3_sgd.jpg">
+
+    [Image Source: Fastai Book, Chapter 4](https://nbviewer.org/github/fastai/fastbook/blob/master/04_mnist_basics.ipynb)
