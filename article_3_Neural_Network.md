@@ -6,6 +6,7 @@ They consists of **node** layers. Each node is designated a certain weight and t
 
 As shown below, the **input** layers are related to the **output** layers via multiple hidden layers. 
 
+<img src="images/neural_network_IBM.png">
 
 
 Source: [IBM](https://www.ibm.com/topics/neural-networks) 
