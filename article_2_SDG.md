@@ -26,7 +26,8 @@ The above model has been explained in greater detail in the proceeding subsectio
 - Gives DL a way of understanding **how well** the current model is performing
 
 ## Step 4: Step through with Gradient
-- As **weight parameters** are adjusted, change in **gradient of loss** can be measured 
-- Correlates weight values with respect to model performance
+- As **weight parameters** are adjusted, change in **gradient (derivative of loss)** can be measured 
+- Correlates weight values with respect to model performance 
 - Will indicate the **winning direction**, and amount to adjust weight parameters by
+- Idea of 'descent' is to go in opposite direction of gradient to optimise performance
 
