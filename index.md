@@ -16,11 +16,12 @@
                          Articles
   ---------------------------------------------------------->
 # **Articles/Posts**
-Following articles summarise key learnings from different chapters of the textbook:
+The following articles summarise key learnings from different chapters of the textbook:
 
 - [What is Deep Learning?](article_1_DL_Explained.md)
 
 - [The Stochastic Gradient Descent Explained](article_2_SDG.md)
 
+- [The Foundation of Neural Networks](article_3_Neural_Network.md)
 
 
