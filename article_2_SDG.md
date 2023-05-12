@@ -10,14 +10,14 @@ The following diagram, visually describes the SGD method.
 
 The above model has been explained in greater detail in the proceeding subsections: 
 
-## Step 1: Initialize
+## Step 1: Initialize Weights
 - Gradient descent method involves starting at a random point on a function
 - Hence, in DL, this involves **initializing** model parameters **(weights)** to **random values**
 
-## Step 2: Predict
+## Step 2: Predict Outcome Using Weights
 - Using weights, an expected result can be predicted
 
-## Step 3: Determine how much test loss by
+## Step 3: Measure Loss
 - Need to measure the effectiveness of the weights
 - Using a function, we can quantitatively describe the performance (level of loss)
 - Function will return:
@@ -25,7 +25,7 @@ The above model has been explained in greater detail in the proceeding subsectio
     2. **Large number** - if the loss is significant
 - Gives DL a way of understanding **how well** the current model is performing
 
-## Step 4: Gradient Step
+## Step 4: Step through with Gradient
 - As **weight parameters** are adjusted, change in **gradient of loss** can be measured 
 - Correlates weight values with respect to model performance
 - Will indicate the **winning direction**, and amount to adjust weight parameters by
