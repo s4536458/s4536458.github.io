@@ -26,6 +26,13 @@ Three layers can be implemented. The idea is to make sure each word is assessed 
 
 Another important feature of the algorithm is the implementation of a **universal weight matrix** for all three layers. This ensures the **same three words arranged differently yields the same predicted word**. 
 
+The visual depiction of this network is shown below: 
+
+<!----------- IMAGE ------------>
+<img src="images/lang_neural_model.jpg">
+
+[Source: FastAI Book Chapter 12](https://nbviewer.org/github/fastai/fastbook/blob/master/12_nlp_dive.ipynb)
+
 
 
 
