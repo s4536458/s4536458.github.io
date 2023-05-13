@@ -9,5 +9,5 @@ The purpose of this blog is to outline key concepts I have learned from the
 [FastAI](https://course.fast.ai/) course.
 
 <!---(Photo of myself) -->
-<img src="images/AnjanaNanayakkara.jpg" width="417" height="625">
+<img src="../images/AnjanaNanayakkara.jpg" width="417" height="625">
 
