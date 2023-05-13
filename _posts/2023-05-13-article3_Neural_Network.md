@@ -65,38 +65,38 @@ Provided these conditions are met, the output matrix:
 We can demonstrate this principle in the following example, with the multiplication of a 4D matrix and 3D matrix:
 
 <!--- Matrix A --->
-<span style="color:silver">  Matrix A: 
+<span style="color:black">  Matrix A: 
 <span style="color:green">  4 
-<span style="color:silver"> x 1 x
+<span style="color:black"> x 1 x
 <span style="color:green"> 3 
-<span style="color:silver"> x 1
+<span style="color:black"> x 1
 
 <!--- Matrix B --->
-<span style="color:silver"> Matrix B: 
+<span style="color:black"> Matrix B: 
 <span style="color:blue"> ?
-<span style="color:silver"> x 
+<span style="color:black"> x 
 <span style="color:green"> 2 
-<span style="color:silver"> x 1 x 
+<span style="color:black"> x 1 x 
 <span style="color:green"> 5
 
 <!---- Result --->
-<span style="color:silver"> Result C: 
+<span style="color:black"> Result C: 
 <span style="color:green"> 4 
-<span style="color:silver"> x 
+<span style="color:black"> x 
 <span style="color:green"> 2
-<span style="color:silver"> x 
+<span style="color:black"> x 
 <span style="color:green"> 3
-<span style="color:silver"> x 
+<span style="color:black"> x 
 <span style="color:green"> 5
 
 <!--- Explain above example--->
-<span style="color:silver"> As higlighted in 
+<span style="color:black"> As higlighted in 
 <span style="color:green"> green
-<span style="color:silver"> the size of each dimension in the resulting matrix corresponds to the **largest size** of the **input matrices**. 
+<span style="color:black"> the size of each dimension in the resulting matrix corresponds to the **largest size** of the **input matrices**. 
 
-<span style="color:silver"> Also take note of the 
+<span style="color:black"> Also take note of the 
 <span style="color:blue"> '?' 
-<span style="color:silver"> in Matrix B. In such a situation, where the dimension is unknown, it is **assumed to be size 1**.
+<span style="color:black"> in Matrix B. In such a situation, where the dimension is unknown, it is **assumed to be size 1**.
 
 A visual depiction of this broadcasting technique has been shown below: 
 
