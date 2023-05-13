@@ -110,8 +110,15 @@ A visual depiction of this broadcasting technique has been shown below:
 
 
 
+## Reference List
 
+    https://numpy.org/doc/stable/user/basics.broadcasting.html
 
+    https://nbviewer.org/github/fastai/fastbook/blob/master/17_foundations.ipynb
+
+    https://www.researchgate.net/publication/335855384_Using_Deep_Learning_to_Localize_Gravitational_Wave_Sources/figures?lo=1
+
+    https://www.ibm.com/topics/neural-networks
 
 
 
