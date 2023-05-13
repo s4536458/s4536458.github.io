@@ -16,7 +16,7 @@
                          Articles
   ---------------------------------------------------------->
 # **Articles/Posts**
-The following articles summarise key learnings from different chapters of the textbook:
+The following articles summarise key learnings from different chapters of the Fast AI textbook:
 
 - [What is Deep Learning?](article_1_DL_Explained.md)
 
@@ -24,4 +24,4 @@ The following articles summarise key learnings from different chapters of the te
 
 - [The Foundation of Neural Networks](article_3_Neural_Network.md)
 
-
+- [Language Model](article_4_lang_model.md)
