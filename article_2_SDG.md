@@ -45,3 +45,12 @@ The above model has been explained in greater detail in the proceeding subsectio
     <img src="images/step3_sgd.jpg">
 
     [Image Source: Fastai Book, Chapter 4](https://nbviewer.org/github/fastai/fastbook/blob/master/04_mnist_basics.ipynb)
+
+
+## Reference List
+
+    https://nbviewer.org/github/fastai/fastbook/blob/master/04_mnist_basics.ipynb
+
+    
+
+

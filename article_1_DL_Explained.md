@@ -51,3 +51,9 @@ Thus, the DL model can be visually described as shown below:
 <img src="images/DL_Model.jpg">
 
 [Image Source: Fastai Book, Chapter 1](https://nbviewer.org/github/fastai/fastbook/blob/master/01_intro.ipynb)
+
+
+# Reference List
+    https://nbviewer.org/github/fastai/fastbook/blob/master/01_intro.ipynb
+
+    
