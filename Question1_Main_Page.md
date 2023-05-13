@@ -18,10 +18,10 @@
 # **Articles/Posts**
 The following articles summarise key learnings from different chapters of the Fast AI textbook:
 
-- [What is Deep Learning?](article_1_DL_Explained.md)
+- [What is Deep Learning?](Question1_Article_1_DL.md)
 
-- [The Stochastic Gradient Descent Explained](article_2_SDG.md)
+- [The Stochastic Gradient Descent Explained](Question1_Article_2_SDG.md)
 
-- [The Foundation of Neural Networks](article_3_Neural_Network.md)
+- [The Foundation of Neural Networks](Question1_Article_3_Neural_Network.md)
 
-- [Language Model](article_4_lang_model.md)
+- [Language Model](Question1_Article_4_lang_model.md)

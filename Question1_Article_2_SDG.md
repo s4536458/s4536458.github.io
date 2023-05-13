@@ -1,6 +1,6 @@
 # Stochastic Gradient Descent (SGD) Method
 
-As discussed in [Article 1](article_1_DL_Explained.md), Deep Learning models require a **mechanism** to update the model parameters automatically. The **Stochastic gradient descent (SGD)** is the mathematical foundation of this mechanism. 
+As discussed in [Article 1](Question1_Article_1_DL.md), Deep Learning models require a **mechanism** to update the model parameters automatically. The **Stochastic gradient descent (SGD)** is the mathematical foundation of this mechanism. 
 
 The following diagram, visually describes the SGD method. 
 <!---(Photo of diagram)-->
