@@ -18,10 +18,11 @@
 # **Articles/Posts**
 The following articles summarise key learnings from different chapters of the Fast AI textbook:
 
-- [What is Deep Learning?](Question1_Article_1_DL.md)
+- [What is Deep Learning?](https://s4536458.github.io/2023/05/13/article1_DL.html)
 
-- [The Stochastic Gradient Descent Explained](Question1_Article_2_SDG.md)
+- [The Stochastic Gradient Descent Explained](https://github.com/s4536458/s4536458.github.io/blob/master/_posts/2023-05-13-article2_SDG.md)
 
-- [The Foundation of Neural Networks](Question1_Article_3_Neural_Network.md)
+- [The Foundation of Neural Networks](https://github.com/s4536458/s4536458.github.io/blob/master/_posts/2023-05-13-article3_Neural_Network.md)
 
-- [Language Model](Question1_Article_4_lang_model.md)
+- [Language Model](https://github.com/s4536458/s4536458.github.io/blob/master/_posts/2023-05-13-article4_LanguageModel.md)
+
