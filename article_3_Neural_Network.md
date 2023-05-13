@@ -2,11 +2,7 @@
 
 ## 1. Neural Network Concept
 
-As discussed by [IBM](https://www.ibm.com/topics/neural-networks), neural networks are a fundamental component of deep learning models.
-
-They consists of **node layers**. Each node is designated a certain weight and threshold. 
-
-As shown below, the **input** layers are related to the **output** layers via multiple hidden layers:
+As discussed by [IBM](https://www.ibm.com/topics/neural-networks), neural networks are a fundamental component of deep learning models. They consists of **node layers**. Each node is designated a certain weight and threshold. As shown below, the **input** layers are related to the **output** layers via multiple hidden layers:
 
 <!----------- IMAGE ------------>
 <img src="images/NEURAL_NETWORK.jpg">
